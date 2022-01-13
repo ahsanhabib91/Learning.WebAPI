@@ -7,6 +7,7 @@ using OdataOrders.Data;
 
 /*
  * https://github.com/rstropek/htl-leo-csharp-4/tree/master/live-coding/2021-03-18
+ * https://devblogs.microsoft.com/odata/up-running-w-odata-in-asp-net-6/
  * https://dev.to/berviantoleo/odata-with-net-6-5e1p
  */
 
